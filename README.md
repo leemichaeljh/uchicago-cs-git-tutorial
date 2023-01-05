@@ -1,2 +1,2 @@
-Michael Lee Jun Hui
+Michael Lee Jun Hui leemichaeljh
 # uchicago-cs-git-tutorial
